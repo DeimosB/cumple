@@ -466,8 +466,8 @@ ol {
 ---------------------*/
 
 .header-section {
-	padding-top: 15px;
-	padding-bottom: 27px;
+	/*padding-top: 15px;
+	padding-bottom: 27px;*/
 	position: relative;
 	z-index: 99;
 }
